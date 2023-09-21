@@ -5,3 +5,4 @@ Object detection — With the help of Yolo model we have done object detection o
   MEMBERS:
   !.PRATYUSH RAJ
   2. NIKHIL CHOPRA
+  3. Mihira Karanjai
